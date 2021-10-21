@@ -15,7 +15,7 @@
 <td>
 <h2 align = "center">📖 About Me</h2>
 <h4>
-I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering. I am an open source enthusiats and currently learning front - end web development. I am always open to collaborating on projects and innovative tech articles & documentations.
+I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering. I am an open source enthusiast and currently learning front - end web development. I am always open to collaborating on projects and innovative tech articles & documentations.
 </h4>
 </td>
 </tr>
