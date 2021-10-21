@@ -14,13 +14,36 @@
 <tr>
 <td>
 <h2 align = "center">📖 About Me</h2>
-<h4>
-I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering. I am an open source enthusiast and currently learning front - end web development. I am always open to collaborating on projects and innovative tech articles & documentations.
+<h4 align = "center">
+I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science & Engineering. I am an open source enthusiast and currently learning front - end web development. I am always open to collaborating on projects and innovative tech articles & documentations.<br><br>
+
+<p align = "center">
+🌱 I’m currently learning Front End Web Development...<br>
+💬 You can ask me about C/C++, HTML5, CSS3...
+</p>
 </h4>
 </td>
 </tr>
 </table>
 <hr>
+
+<!-- <table>
+<tr>
+<td>
+<h4>
+🔭 I’m currently working on ...
+🌱 I’m currently learning Front End Web Development
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about C/C++, HTML, CSS
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: ...
+</h4>
+</td>
+</tr>
+</table>
+<hr> -->
 
 <!-- Images -->
 
