@@ -120,6 +120,6 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 <a href = "https://twitter.com/Kashyap1905"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href = "https://t.me/Kashyap1905"><img src = "https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white"></a>
 <a href = "https://discordapp.com/users/817306916949983232"><img src = "https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
-<a href = "https://www.instagram.com/kashyap___002/"><img src = "https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kashyap___002/"></a>
+<a href = "https://www.instagram.com/kashyap___002/"><img src = "https://img.shields.io/badge/-Instagram-darkred?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kashyap___002/"></a>
 </p>
 <hr>
