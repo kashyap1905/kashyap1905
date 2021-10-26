@@ -55,7 +55,8 @@ I am an under graduation student at <a href = "https://www.msit.in/">Maharaja Su
 
 <!-- GitHub Contribution Graph -->
 
-<!-- [![BOBBY's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kashyap1905&theme=react-dark)](https://github.com/kashyap1905) -->
+[![BOBBY's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kashyap1905&theme=react-dark)](https://github.com/kashyap1905)
+<hr>
 
 <br>
 
